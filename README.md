@@ -44,4 +44,4 @@
 
 1. Clone repositori ini / *Clone this repository*:
    ```bash
-   git clone [https://github.com/sardisihotang/coffee-website-frontend.git](https://github.com/sardisihotang/coffee-website-frontend.git)
+   git clone [https://github.com/sardisihotang/Coffee_Shop-Frontend.git](https://github.com/sardisihotang/Coffee_Shop-Frontend.git)
